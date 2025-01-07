@@ -1,0 +1,61 @@
+Question 1
+
+The main architecture of Unicode was created by three engineers from Apple and 
+Xerox, and current members include major computer corporations, software producers,
+database vendors, government ministries, research institutions, and interested 
+individuals. The decisions currently being made for Unicode might better represent
+the interests of those interested in software and computer science, and exclude 
+the interests of those outside of those fields, which is much of the general public.
+
+Question 2
+
+There are a number of unicode scripts not included in the current encoding, as 
+they are considered "archaic" or "obsolete". One example of this is Maya 
+hieroglyphs. Although this is not a script that is used very often, those 
+studying the language would find it difficult to digitize this script and study 
+it with others.
+
+Question 3
+
+For
+
+-Some believe that CJK language characters are visually similar enough to be 
+encoded together
+-Unification allowed for more efficient development of Unicode
+-At the time, there was a 16 bit limit for Unicode characters, meaning that only 
+32% of all characters were reserved for these unified ideographs.
+
+Against
+
+-Many believe that the three CJK languages should be encoded separately
+-Limits the ability of CJK language users to access and utilize their chosen language; 
+by having a unified glyph system, all languages face some sort of reduced accessibility
+-Reduces characters with historic or regional significance (i.e. Japanese Kanji)
+-Same characters could mean different things depending on the language; multiple 
+meanings are attached to some characters
+
+
+Discussion
+
+Gianna
+
+There were marked benefits to Han unification, mostly related to efficiency. At 
+the time, saving space was an important factor when deciding to unify visually 
+similar characters. Some exceptions were made for necessary characters, and 
+perhaps more could be made now that space is less of a concern. Although relevant
+ groups were involved in this decision, there are some, like those in historical 
+ research or who may have trouble differentiating between character meanings in 
+ these three languages, who were left out of this decision and are still 
+ impacted today.
+
+Jerry
+
+Overall, while there are some unavoidable consequences to having a unified system 
+of representing CJK language, after our discussion, I believe that the Han 
+unification was a necessary evil to simplify languages that utilize similar 
+characters in their writing, and accomplished its task to a reasonable level. The 
+individuals who designed the unification were from regions that would be impacted 
+by the unification, and as such, the unification considered the representation of 
+stakeholders. With a set of characters that combine three languages, there will 
+be reductions in accessibility for the languages represented, but weighing this 
+against the pros of having such a system make Han unification more appealing to me.
